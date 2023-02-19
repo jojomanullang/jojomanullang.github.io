@@ -1,0 +1,31 @@
+.jumbotron {
+    padding-top: 6rem;
+    background-color: #3c413a;
+}
+
+#projects {
+    background-color: #13b11a;
+}
+
+/* style for responsive text */
+.jumbotron h1{
+    font-size: 4vw;
+}
+
+.jumbotron .lead{
+    font-size: 3vw;
+}
+/* end of style for responsive text */
+
+footer {
+    background-color: #d89d8b;
+    padding-bottom: 1rem;
+    font-size: .8rem;
+}
+
+section {
+    padding-top: 5rem;
+}
+.h1{
+    color: #fff;
+}
